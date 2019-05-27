@@ -2,7 +2,7 @@
 
 This is a collection of command parsers for [__Ansible__](https://www.ansible.com/) [__network-engine__](https://github.com/ansible-network/network-engine).
 
-![alt text](https://www.ansible.com/hubfs/Images/logos/Logo-Red_Hat-Ansible-A-Reverse-SVG.svg "Ansible")
+![alt text](https://www.ansible.com/hubfs/Images/logos/Logo-Red_Hat-Ansible-A-Reverse-SVG.svg "Ansible") + ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/110px-Cisco_logo_blue_2016.svg.png "Cisco")
 
 All the parsers are made for Cisco IOS commands.
 They were made in order to solve parts of real world problems.
@@ -22,6 +22,6 @@ They were made in order to solve parts of real world problems.
 
 
 
-You are free to add more parsers to this list if you want to contribute.
+You are welcome to add more parsers to this list if you want to contribute.
 
 ___
