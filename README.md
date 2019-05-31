@@ -9,6 +9,7 @@ They were made in order to solve parts of real world problems.
 
 
 
+* [__ping__](https://github.com/joubbi/command_parser_ping)
 
 * [__show interface status__](https://github.com/joubbi/command_parser_show_interfaces_status)
 
